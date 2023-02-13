@@ -14,9 +14,11 @@ The following animation, a user can type a search term, then save and delete mov
 install react, then run 'npm run start' to start the app
 
 ## repo code 
-git@github.com:abdulrfarag/search-movie-gp3.git
+
+
 ## deploymen live link
- https://moviee-search.herokuapp.com/
+
+
 ## Author
 Abdul Farag
 
