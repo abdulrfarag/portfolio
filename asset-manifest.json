@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abdulrfarag/portfolio.git/static/css/main.6fc693e4.css",
+    "main.js": "/abdulrfarag/portfolio.git/static/js/main.19af7f8f.js",
+    "index.html": "/abdulrfarag/portfolio.git/index.html",
+    "main.6fc693e4.css.map": "/abdulrfarag/portfolio.git/static/css/main.6fc693e4.css.map",
+    "main.19af7f8f.js.map": "/abdulrfarag/portfolio.git/static/js/main.19af7f8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc693e4.css",
+    "static/js/main.19af7f8f.js"
+  ]
+}
